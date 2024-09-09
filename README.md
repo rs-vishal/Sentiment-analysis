@@ -42,11 +42,11 @@ To run this project locally, follow these steps:
     ```bash
     python -m venv venv
     source venv/bin/activate
-3.**Install the required packages**:
+3. **Install the required packages**:
    ```bash
    pip install -r requirements.txt
    ```
-4.**Start**:
+4. **Start**:
   ```bash
  streamlit run app.py
  ```
