@@ -49,6 +49,8 @@ To run this project locally, follow these steps:
 4.**Start**:
   ```bash
  streamlit run app.py
+ ```
+
 
     
 
