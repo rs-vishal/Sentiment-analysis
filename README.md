@@ -23,7 +23,7 @@ This project focuses on creating a robust model that can identify sentiment with
 
 The dataset used for training and testing the model consists of labeled text data with corresponding sentiment labels.
 
-- **Source**: [Sentiment140 Dataset](https://sentiment-analysis00.streamlit.app/)
+- **Source**: [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
 - **Description**: The dataset includes various text samples with annotations for sentiment (positive, negative).
 - **Size**: The dataset contains approximately 1.6 million samples.
 
