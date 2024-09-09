@@ -4,7 +4,7 @@
 
 This project aims to build a sentiment analysis model that can automatically classify text as positive, negative, or neutral. The model uses natural language processing (NLP) techniques to understand and predict the sentiment of a given input, such as tweets, reviews, or any other form of text data.
 
-**Demo**: [Sentiment Analysis](https://sentimentalanalysis-00.streamlit.app)
+**Demo**: [Sentiment Analysis](https://sentiment-analysis00.streamlit.app)
 
 ## Introduction
 
@@ -23,7 +23,7 @@ This project focuses on creating a robust model that can identify sentiment with
 
 The dataset used for training and testing the model consists of labeled text data with corresponding sentiment labels.
 
-- **Source**: [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
+- **Source**: [Sentiment140 Dataset](https://sentiment-analysis00.streamlit.app/)
 - **Description**: The dataset includes various text samples with annotations for sentiment (positive, negative).
 - **Size**: The dataset contains approximately 1.6 million samples.
 
