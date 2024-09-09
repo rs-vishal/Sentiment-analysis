@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 3.**Install the required packages**:
    ```bash
    pip install -r requirements.txt
-
+```
 4.**Start**:
   ```bash
  streamlit run app.py
