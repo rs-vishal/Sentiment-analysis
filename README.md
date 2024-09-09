@@ -4,6 +4,8 @@
 
 This project aims to build a sentiment analysis model that can automatically classify text as positive, negative, or neutral. The model uses natural language processing (NLP) techniques to understand and predict the sentiment of a given input, such as tweets, reviews, or any other form of text data.
 
+**Demo**: [Sentiment Analysis](https://sentimentalanalysis-00.streamlit.app)
+
 ## Introduction
 
 Sentiment analysis, also known as opinion mining, is a process of determining the emotional tone behind a series of words. It is widely used in applications such as customer feedback analysis, social media monitoring, and market research.
@@ -37,3 +39,18 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/rs-vishal/Sentimental-analysis.git
    cd sentiment-analysis
+
+2. **Create a virtual environment**:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate
+3.**Install the required packages**:
+   ```bash
+   pip install -r requirements.txt
+
+4.**Start**:
+  ```bash
+ streamlit run app.py
+
+    
+
