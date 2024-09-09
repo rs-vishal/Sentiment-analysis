@@ -34,12 +34,10 @@ The model is built using Python and popular machine learning libraries such as S
 ## Installation
 
 To run this project locally, follow these steps:
-
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/rs-vishal/Sentimental-analysis.git
    cd sentiment-analysis
-
 2. **Create a virtual environment**:
     ```bash
     python -m venv venv
@@ -47,7 +45,7 @@ To run this project locally, follow these steps:
 3.**Install the required packages**:
    ```bash
    pip install -r requirements.txt
-```
+   ```
 4.**Start**:
   ```bash
  streamlit run app.py
